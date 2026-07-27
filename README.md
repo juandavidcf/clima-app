@@ -13,3 +13,4 @@ Aplicación web desarrollada con Flask que permite consultar el clima en tiempo 
 
 pip install -r requirements.txt
 python app.py
+# prueba
